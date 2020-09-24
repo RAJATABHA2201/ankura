@@ -12,7 +12,7 @@ Model is one of the following:
     freederp : generic free classifier model
     supervised : ankura with supervised anchors
     semi : ankura running supervised anchors with semi-supervised data
-    vanilla : generic anchor words algorithm
+    vanilla : dddddgeneric anchor words algorithm
     fclr : free classifier using logistic regression to evaluate accuracy
     fcdr : free classifier using the dream model
 
